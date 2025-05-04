@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Expo 2025",
+      "category": "Tech",
+      "date": "2025-06-15",
+      "location": "Dhaka",
+      "entryFee": "Free",
+      "thumbnail":"https://images.pexels.com/photos/736779/pexels-photo-736779.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Art Festival",
+      "category": "Art",
+      "date": "2025-06-25",
+      "location": "Chittagong",
+      "entryFee": "$10",
+      "thumbnail": "https://images.pexels.com/photos/736779/pexels-photo-736779.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Music Concert 2025",
+      "category": "Music",
+      "date": "2025-07-01",
+      "location": "Sylhet",
+      "entryFee": "$20",
+      "thumbnail": "https://images.pexels.com/photos/1054246/pexels-photo-1054246.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Food Festival",
+      "category": "Food",
+      "date": "2025-07-10",
+      "location": "Rajshahi",
+      "entryFee": "Free",
+      "thumbnail": "https://images.pexels.com/photos/736779/pexels-photo-736779.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Startup Pitch Event",
+      "category": "Business",
+      "date": "2025-08-05",
+      "location": "Dhaka",
+      "entryFee": "$50",
+      "thumbnail": "https://images.pexels.com/photos/736779/pexels-photo-736779.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Photography Exhibition",
+      "category": "Art",
+      "date": "2025-08-12",
+      "location": "Chittagong",
+      "entryFee": "$15",
+      "thumbnail": "https://images.pexels.com/photos/736779/pexels-photo-736779.jpeg"
+    }
+  ]
+  
